@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/14 19:16:16 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 19:16:15 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:46:04 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 static char	*stupidity_check(char *result, char const *s, unsigned int start,
 		size_t len)

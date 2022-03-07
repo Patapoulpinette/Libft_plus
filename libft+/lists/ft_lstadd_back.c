@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/08 13:53:10 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 15:49:05 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:43:11 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 void	ft_lstadd_back(t_list **lst, t_list *new)
 {

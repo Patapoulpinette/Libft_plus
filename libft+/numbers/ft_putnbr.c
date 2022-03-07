@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/01 14:33:54 by dbouron           #+#    #+#             */
-/*   Updated: 2022/03/01 16:06:06 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:44:50 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 void	ft_putnbr(int nb)
 {

@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/12 16:53:46 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 18:58:22 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:44:36 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 int	ft_atoi(const char *str)
 {

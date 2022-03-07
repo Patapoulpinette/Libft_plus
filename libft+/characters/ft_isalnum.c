@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/12 17:47:57 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 18:58:51 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:42:11 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 int	ft_isalnum(int c)
 {

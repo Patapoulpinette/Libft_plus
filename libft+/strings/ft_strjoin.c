@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/20 15:34:43 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 19:00:23 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:45:29 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 char	*ft_strjoin(char const *s1, char const *s2)
 {

@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/08 14:30:03 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 16:01:11 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:43:21 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 void	ft_lstclear(t_list **lst, void (*del)(void *))
 {

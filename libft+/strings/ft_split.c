@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/28 18:14:14 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 19:10:57 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:45:11 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 static size_t	ft_nbword(char const *s, char c)
 {

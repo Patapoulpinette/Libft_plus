@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/04 14:16:41 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 18:59:20 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:42:39 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 int	ft_intlen(int n)
 {

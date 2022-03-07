@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/12 16:32:16 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/08 19:00:41 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:45:49 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 int	ft_strncmp(const char *s1, const char *s2, size_t n)
 {

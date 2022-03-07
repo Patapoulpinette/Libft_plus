@@ -6,11 +6,11 @@
 /*   By: dbouron <dbouron@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/12 17:48:30 by dbouron           #+#    #+#             */
-/*   Updated: 2022/02/09 14:59:22 by dbouron          ###   ########lyon.fr   */
+/*   Updated: 2022/03/07 14:44:19 by dbouron          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../headfiles/libft.h"
 
 void	*ft_memcpy(void *dst, const void *src, size_t n)
 {
